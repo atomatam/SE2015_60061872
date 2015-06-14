@@ -9,7 +9,6 @@ import kr.ac.mju.exception.NoEixstGangjwaException;
 import kr.ac.mju.exception.NoExistGwamokException;
 import kr.ac.mju.exception.NotInputDataException;
 import kr.ac.mju.model.Gangjwa;
-import kr.ac.mju.model.GangjwaEvaluation;
 import kr.ac.mju.model.GangjwaScore;
 import kr.ac.mju.model.Gwamok;
 import kr.ac.mju.model.User;

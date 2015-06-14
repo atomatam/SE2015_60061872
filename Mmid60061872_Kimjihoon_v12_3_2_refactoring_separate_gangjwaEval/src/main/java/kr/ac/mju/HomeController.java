@@ -3,13 +3,11 @@ package kr.ac.mju;
 
 import java.util.List;
 
-import kr.ac.mju.model.Gangjwa;
 import kr.ac.mju.model.User;
 import kr.ac.mju.model.dto.GangjwaTableDto;
 
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

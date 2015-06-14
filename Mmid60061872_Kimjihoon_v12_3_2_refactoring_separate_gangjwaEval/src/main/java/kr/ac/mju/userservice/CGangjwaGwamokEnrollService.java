@@ -1,10 +1,7 @@
 package kr.ac.mju.userservice;
 
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
-import java.util.Locale;
 
 import kr.ac.mju.dao.IGangjwaDao;
 import kr.ac.mju.exception.AlreadyExistGwamokException;
@@ -14,7 +11,6 @@ import kr.ac.mju.exception.NoEixstGangjwaException;
 import kr.ac.mju.exception.NoExistGwamokException;
 import kr.ac.mju.exception.NotInputDataException;
 import kr.ac.mju.model.Gangjwa;
-import kr.ac.mju.model.GangjwaEvaluation;
 import kr.ac.mju.model.GangjwaScore;
 import kr.ac.mju.model.Gwamok;
 import kr.ac.mju.model.SugangTable;
