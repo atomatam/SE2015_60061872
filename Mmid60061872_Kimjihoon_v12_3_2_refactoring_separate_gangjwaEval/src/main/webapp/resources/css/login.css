@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+
+* {
+	padding:0;
+	border:0;
+}
+
+#submitbox {
+	padding:6px;
+	font-size: 15px;
+	height: 50px;
+	width: 50px;
+	background-color: #2f618e;
+	color:white;
+}
+
+#loginbox {
+	
+}
+
+#inputbox {
+	padding:2px;
+	background-color: #6399cb;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+	color:white;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+	color:white;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+	color:white;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+	color:white;
+}

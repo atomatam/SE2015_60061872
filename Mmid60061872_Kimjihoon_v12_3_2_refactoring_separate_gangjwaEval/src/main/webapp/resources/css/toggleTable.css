@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+.serviceButton {
+	background-color:#e1fee0;
+	text-align: center;
+	padding: 2px;
+	width:500px;
+}
+
+.toggleButton {
+	background-color:#caf9ca;
+	text-align: center;
+	padding: 2px;
+	width:500px;
+}
+
+.serviceButtonColor {
+	background-color:#e2f7db;
+	color:#267935;
+}
+
+.toggleButtonColor {
+	background-color:#ddece9;
+	color:#267935;
+}
+
+.theadColor {
+	background-color:#a0f5b8;
+}
+
+.hoverClass {
+	background-color:#d1f8da;
+	color:#2c9e0a;
+}
+
+table tr:hover {
+	background-color:#cdff9b;
+	color:#39880f;
+}
+

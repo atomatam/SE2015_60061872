@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+
+.serviceButton {
+	background-color:#e1fee0;
+	text-align: center;
+	padding: 2px;
+	width:500px;
+}
+
+.toggleButton {
+	background-color:#caf9ca;
+	text-align: center;
+	padding: 2px;
+	width:500px;
+}
+
+.serviceButtonColor {
+	background-color:#e2f7db;
+	color:#267935;
+}
+
+.toggleButtonColor {
+	background-color:#ddece9;
+	color:#267935;
+}
+
+.theadColor {
+	background-color:#a0f5b8;
+}
+
+.hoverClass {
+	background-color:#d1f8da;
+	color:#2c9e0a;
+}
+
+table {
+	padding:20px;
+}
+
+table tr td {
+	white-space: nowrap; 
+	overflow: hidden;
+	text-overflow: ellipsis; 
+	width:150px;
+	height:30px;;
+}
+
+table tr:hover {
+	background-color:#cdff9b;
+	color:#39880f;
+	width:150px;
+	height:1.5em;
+}
+
+.uncheckClass {
+	color: white;
+	background-color: #f57e56;
+}
+
+#realEval {
+	white-space: nowrap; 
+	overflow: hidden;
+	text-overflow: ellipsis; 
+	width:150px;
+	height:1.5em;
+}

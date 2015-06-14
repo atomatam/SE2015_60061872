@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+.errorMessage {
+	color : red;
+	border:1px;
+	border-style: dotteed;
+	border-color: red;
+}

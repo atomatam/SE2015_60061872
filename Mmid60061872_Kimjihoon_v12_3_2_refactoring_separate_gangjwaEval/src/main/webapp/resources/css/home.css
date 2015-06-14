@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapMainAll {
+	margin:0 auto;
+	width: 1000px;
+	padding:0;
+}
+
+#welcomeWord {
+	text-align: center;
+}
+
+body {
+}
+
+#navy {
+	width:inherit;
+	height: 2em;
+	border: solid 1px #408080;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	float: left;
+	font-size: 1em;
+	padding-top:0.3em;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+#navy li {
+	list-style: none;
+	float:left;
+	padding-left: 25px;
+}
+
+#contentBoby {
+	padding-top:20px;
+	height: 500px;
+	width: inherit;
+	background: url(../images/backgroundImage.png) no-repeat right top;
+}
+
+
+a:link, a:visited, a:hover {
+	text-decoration: none;
+	color: inherit;
+}
+
+table td {
+	text-align: center;		
+}
+
+.normalTable tr:hover {
+	background-color: #c6c6f2;
+	color:#e1feff;
+}
+
+.normalTableOdd {
+	background-color: #cee0fb;
+}
+
+.normalTableThead {
+	background-color: #b8c5fa;
+	color:#7b7b7b;
+}
+
